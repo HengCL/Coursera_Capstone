@@ -9,4 +9,4 @@ The dataset used for this project is based on car accidents which have taken pla
 
 In order to deal with the issue of columns having a variation in frequency, arrays were made for each column which were encoded according to the original column and had equal proportion of elements as the original column. Then the arrays were imposed on the original columns in the positions which had Other and Unknown in them. This entire process of cleaning data led to a loss of almost 5000 rows which had redundant data, whereas other rows with unknown values were filled earlier.
 
-![Image1](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/No.of%20reported%20accidents%20located%20on%20Seattle%20map.png)
+![Image1](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/Frequency%20in%20data%20entry%20for%20each%20variable.png)
