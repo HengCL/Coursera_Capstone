@@ -23,7 +23,7 @@ At the end, the variables that were included in this analysis are the following:
 
 ## Methodology
 
-# Exploratory Data Analysis
+### Exploratory Data Analysis
 Considering that the feature set and the target variable are categorical variables with the likes of weather, road condition and light condition being an above level 2 categorical variables whose values are limited and usually based on a particular finite group whose correlation might depict a different image then what it actually is. Generally, considering the effect of these variables in car accidents are important hence these variables were selected. A few pictorial depictions of the dataset were made in order to better understand the data.
 
 ![Image2](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/Accident%20locations%20at%20Seattle.png)
@@ -34,19 +34,19 @@ From the image above, the data had been cleaned to indicated the most common loc
 
 The factor which had most number of accidents under adverse conditions was adverse weather conditions while adverse lighting condition had the second most number of accidents caused by it. The factors which contributed the least to an instance of an accident are over-speeding and the driver being under the influence.
 
-# Machine Learning Models Selected
+### Machine Learning Models Selected
 1) Logistic Regression- Logistic regression is a statistical model that in its basic form uses a logistic function to model a binary dependent variable
 2) Decision Tree Analysis: The Decision Tree Analysis breaks down a data set into smaller subsets while at the same time an associated decision tree is incrementally developed. The final result is a tree with decision nodes and leaf nodes.
 
 ## Results
 
-# Decision Tree Classifier
+### Decision Tree Classifier
 ![Image4](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/Decision%20Tree%20Accuracy.png)
 
 Decision Tree Confusion Matrix:
 ![Image5](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/Decision%20Tree%20Matrix.png)
 
-# Logistic Regression
+### Logistic Regression
 ![Image6](https://github.com/HengCL/Coursera_Capstone/blob/master/Images/Logistic%20Regression%20Accuracy.png)
 
 Logistic Regression Matrix:
